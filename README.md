@@ -1,4 +1,4 @@
-# PortfolioAdjustments
+# Portfolio Rebalacing 
 Finding risks and adjust portfolio for max returns and reduced risks
 
 Place your financial data CSV file in the project directory.
